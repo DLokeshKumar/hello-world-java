@@ -37,6 +37,6 @@ public class HelloWorld {
 	  
     System.out.println("Hello, World");
     System.out.println("Hello, World .... Devops ......;;;;;;;;;;  ");
- System.out.println("Hello, World .... Devops .... for ;;;;;; .HOOK WITHOUT CONFIG IN GIT  TESTING........;;;;;;;;;;  ");
+ System.out.println("Hello, World .... Devops .... for ;;;;;; .HOOK WITh CONFIG IN GIT  TESTING........;;;;;;;;;;  ");
   }
 }
